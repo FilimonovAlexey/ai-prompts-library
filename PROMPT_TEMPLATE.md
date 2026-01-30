@@ -10,8 +10,8 @@ author: "Ваше имя"
 version: "1.0"
 language: "ru"  # ru, en, etc.
 difficulty: "beginner"  # beginner, intermediate, advanced
-created: "2024-01-01"
-updated: "2024-01-01"
+created: "YYYY-MM-DD"
+updated: "YYYY-MM-DD"
 ---
 
 # Название промта

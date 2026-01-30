@@ -56,8 +56,8 @@ author: "Ваше имя"
 version: "1.0"
 language: "ru"
 difficulty: "beginner"
-created: "2024-01-01"
-updated: "2024-01-01"
+created: "YYYY-MM-DD"
+updated: "YYYY-MM-DD"
 ---
 
 # Название промта
@@ -96,7 +96,7 @@ updated: "2024-01-01"
 1. Форкните репозиторий
 2. Создайте новую ветку (`git checkout -b feature/new-prompt`)
 3. Добавьте свой промт в соответствующую директорию
-4. Закоммитьте изменения (`git commit -am 'Add new prompt: название'`)
+4. Закоммитите изменения (`git commit -am 'Add new prompt: название'`)
 5. Запушьте ветку (`git push origin feature/new-prompt`)
 6. Создайте Pull Request
 
