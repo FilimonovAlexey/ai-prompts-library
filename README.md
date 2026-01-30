@@ -47,6 +47,7 @@ ai-prompts-library/
 │   └── video/              # Промты для работы с видео
 │       ├── chatgpt/
 │       ├── claude/
+│       ├── gemini/
 │       └── other/
 ├── PROMPT_TEMPLATE.md      # Шаблон для создания новых промтов
 ├── CONTRIBUTING.md         # Руководство по внесению вклада

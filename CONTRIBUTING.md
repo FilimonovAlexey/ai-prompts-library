@@ -8,14 +8,23 @@
 ai-prompts-library/
 ├── prompts/
 │   ├── text/           # Промты для работы с текстом
+│   │   ├── chatgpt/
+│   │   ├── claude/
+│   │   ├── gemini/
+│   │   └── other/
 │   ├── code/           # Промты для генерации и работы с кодом
+│   │   ├── chatgpt/
+│   │   ├── claude/
+│   │   ├── gemini/
+│   │   └── other/
 │   ├── images/         # Промты для генерации изображений
+│   │   ├── midjourney/
+│   │   ├── stable-diffusion/
+│   │   └── other/
 │   └── video/          # Промты для работы с видео
 │       ├── chatgpt/
 │       ├── claude/
 │       ├── gemini/
-│       ├── midjourney/
-│       ├── stable-diffusion/
 │       └── other/
 ├── PROMPT_TEMPLATE.md  # Шаблон для создания промтов
 └── README.md
